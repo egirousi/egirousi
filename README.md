@@ -29,6 +29,6 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egirousi&show_icons=true&theme=dark&title_color=f5f9f9&text_color=f7f7f7&bg_color=0b0c0f&locale=en&layout=compact" alt="egirousi" /></p>
-___________________________________________________________________________________________________________________________
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egirousi&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="egirousi" /></p>
