@@ -1,4 +1,4 @@
-                                                       <h1 align="center">Hi 👋, I'm Evangelia Girousi</h1>
+                                                       Hi 👋, I'm Evangelia Girousi 
 <h3 align="center">Bachelor's in Computer Science 🎓. Enthusiast in the fields of software engineering 💻, robotics 🤖, AI 🧠, and quantum computers ⚛️. Alongside programming, in my spare time, I love studying Mathematics ➕➗. Additionally, I have a soft spot for programming languages 🖥️ and mock-up designing 🎨. Among my favorite activities are front-end development 🖌️, visiting art museums 🏛️, reading classical literature 📖, and creating engaging presentations 📊.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egirousi&label=Profile%20views&color=0e75b6&style=flat" alt="egirousi" /> </p>
@@ -11,7 +11,7 @@
 - And recently got published in the IEEE Access (2023).
 
 
-🪐 Research Papers 🪐 ["An Oracle-Based Framework for Implementing a Quantum Parallel Decoder/Multiplexer"]
+🪐 Research Papers 🪐 ⏩  "An Oracle-Based Framework for Implementing a Quantum Parallel Decoder/Multiplexer"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
